@@ -1,0 +1,4 @@
+com\learningms\movieinfoservice\models\Movie.class
+com\learningms\movieinfoservice\MovieInfoServiceApplication.class
+com\learningms\movieinfoservice\resources\MovieResource.class
+com\learningms\movieinfoservice\models\MovieSummary.class

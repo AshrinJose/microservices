@@ -1,0 +1,6 @@
+com\learningms\moviecatalogeservice\models\Rating.class
+com\learningms\moviecatalogeservice\models\UserRating.class
+com\learningms\moviecatalogeservice\MovieCatalogeServiceApplication.class
+com\learningms\moviecatalogeservice\models\Movie.class
+com\learningms\moviecatalogeservice\resources\CatalogeResource.class
+com\learningms\moviecatalogeservice\models\CatalogItem.class
